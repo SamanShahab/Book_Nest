@@ -1,0 +1,24 @@
+//booksData.txt
+Islamic History:Seerat-un-Nabi
+Islamic History:Stories of the Prophets
+Islamic History:The Crusades Through Arab Eyes
+Islamic History:Islam Between East and West
+Islamic History:The Road to Mecca
+
+Novels:Pride and Prejudice
+Novels:The Great Gatsby
+Novels:To Kill a Mockingbird
+Novels:1984
+Novels:The Catcher in the Rye
+
+Computer Science:Introduction to Algorithms
+Computer Science:Clean Code
+Computer Science:The Pragmatic Programmer
+Computer Science:Artificial Intelligence: A Modern Approach
+Computer Science:Computer Networking: Principles, Protocols, and Practice
+
+Social Science:Sapiens
+Social Science:Guns, Germs, and Steel
+Social Science:Thinking, Fast and Slow
+Social Science:Outliers: The Story of Success
+Social Science:The Social Animal
